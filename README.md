@@ -10,7 +10,7 @@ I had 5 questions I set out on answering:
 - Who have been the most successful teams in the past 5 years? (who has the most points combined in the table over the last 5 years)
 
 All of my work, questions, and visualizations are present in the file 'LaLigaStudy2'.
-
+(Other files such as 'LaLigaStudy', and 'women-soccer-prediction' are reference works, 'LaLigaStudy2' is the final product)
 
 
 
